@@ -1,3 +1,3 @@
 # CSE412-Demo
 <br>
-Author - Anika Tabassum Tanha
+Author - Anika Tanha (CSE412)
